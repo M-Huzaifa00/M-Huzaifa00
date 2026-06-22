@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Ali%20Haider&fontSize=70&animation=twinkling" alt="Muhammad Huzaifa Abdulahad" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Huzaifa%20Abdulahad&fontSize=70&animation=twinkling" alt="Muhammad Huzaifa Abdulahad" />
 </p>
 
 <!-- Title -->
@@ -120,21 +120,21 @@ alt="Typing SVG"
 
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alihaider6325&theme=radical" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Huzaifa00&theme=radical" alt="Streak" />
 </p>
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihaider6325&theme=radical" alt="GitHub profile contribution summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Huzaifa00&theme=radical" alt="GitHub profile contribution summary" />
 </p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=alihaider6325&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Huzaifa00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
 
 ## 📈 Contribution Graph
 
-[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alihaider6325&theme=github-dark)](https://github.com/M-Huzaifa00)
+[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Huzaifa00&theme=github-dark)](https://github.com/M-Huzaifa00)
 
 ---
 
