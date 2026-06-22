@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Huzaifa%20Abdulahad&fontSize=70&animation=twinkling" alt="Muhammad Huzaifa Abdulahad" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=M%20Huzaifa%20Abdulahad&fontSize=70&animation=twinkling" alt="Muhammad Huzaifa Abdulahad" />
 </p>
 
 <!-- Title -->
