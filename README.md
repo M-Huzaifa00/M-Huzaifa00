@@ -139,7 +139,7 @@ alt="Typing SVG"
 
 [![Huzaifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Huzaifa00&theme=github-dark)](https://github.com/M-Huzaifa00)
 
-[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alihaider6325&theme=github-dark)](https://github.com/alihaider6325)
+[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Huzaifa00&theme=github-dark)](https://github.com/M-Huzaifa00)
 ---
 
 
